@@ -1,0 +1,93 @@
+.preHeaderWrapper{
+    height: 50px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    margin-top: 50px;
+overflow-x: hidden;
+    
+}
+
+.preHeaderWrapper ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    padding: 25px;
+    gap: 20px;
+    width: max-content;
+   
+}
+
+
+
+.preHeaderWrapper ul a {
+    color: white;
+    
+    align-items: center;
+}
+
+.preHeaderWrapper li a {
+    color: white;
+    text-decoration: none;
+
+    font-family: "Poppins", sans-serif;
+    align-items: center;
+    width: fit-content;
+    margin: auto;
+    
+
+
+}
+#prod:hover{
+    border-bottom: white solid;
+}
+
+ .preHeaderWrapper ul #prod:hover ~ .svg {
+    color: black;
+    text-decoration: none;
+
+    font-family: "Poppins", sans-serif;
+    align-items: center;
+    background-color: white;
+    
+
+
+}
+#wwa:hover{
+    border-bottom: white solid;
+}
+.svg{
+    align-items: center;
+    color: white;
+    margin-right: 0;
+    
+}
+
+.preHeaderWrapper #but{ 
+    background-color: #DC143C;
+    margin-top: 1px;
+    height: 30px;
+    width: 150px;
+    margin-left: 1310px;
+    
+    border-style: none;
+    border-radius: 10px;
+
+    
+}
+
+.preHeaderWrapper #but:hover{
+    opacity: calc(85%);
+}
+
+.preHeaderWrapper #but button[type="submit"]
+{
+    color: white;
+}
+
+
+

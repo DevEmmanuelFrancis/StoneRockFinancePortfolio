@@ -1,0 +1,85 @@
+.Footer{
+    height: 500px;
+    
+    
+   
+}
+
+.Footer h1{
+   
+    font-family: "Jura", sans-serif;
+    text-align: center;
+    
+}
+
+.FormWrap{
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    text-align: center;
+    width: 300px;
+    
+    margin-left: 30%;
+    
+    
+    
+}
+
+
+.content{
+    margin: 0;
+    
+}
+
+.FormWrap #input input{
+    width: 300px;
+    height: 35px;
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.FormWrap #val {
+    display: flex;
+    justify-content: left;
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+   
+}
+
+input[type="text"] {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  font-weight:bolder;
+  color: #222;
+  letter-spacing: 0.5px;
+}
+
+.FormWrap #imgo img{
+    height: 230px;
+    width: 400px;
+}
+
+#button button{
+    background-color: #DC143C;;
+    margin-top: 20px;
+    height: 40px;
+    width: 300px;
+    border-style: none;
+    border-radius: 10px;
+    
+}
+
+#button:hover{
+    opacity: calc(75%);
+}
+
+button[type="submit"]
+{
+    color: white;
+}
+
+#imgo{
+    margin-top: 35px;
+}

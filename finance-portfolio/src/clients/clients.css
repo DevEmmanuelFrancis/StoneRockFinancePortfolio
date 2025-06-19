@@ -1,0 +1,44 @@
+.ClientWrapper{
+    height: 300px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 30px;
+    
+}
+
+#images{
+    height: 100px;
+    width: 300px;
+    padding: 20px;
+    mix-blend-mode: normal;
+}
+
+#imagesshell{
+    height: 150px;
+    width: 270px;
+    padding: 20px;
+    mix-blend-mode: normal;
+}
+
+#imagesjp{
+    height: 70px;
+    width: 370px;
+    padding: 20px;
+    mix-blend-mode: normal;
+}
+
+#imagesP{
+    height: 230px;
+    width: 390px;
+    padding: 20px;
+    mix-blend-mode: normal;
+}
+
+.Parterners h1{
+    display: flex;
+    font-family: "Jura", sans-serif;
+justify-content: center;
+padding-right: 40px;
+}

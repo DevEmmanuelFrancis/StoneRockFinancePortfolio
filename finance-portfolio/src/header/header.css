@@ -1,0 +1,19 @@
+ #building{
+position: relative;
+filter: brightness(40%);
+width: 100%;
+display: inline-block;
+margin: 0;
+}
+
+.introduction{
+    
+    position: absolute;
+    color:black;
+    font-size:xx-large;
+    top: 150px;
+    left: 20px;
+    font-family: "EB Garamond", serif;
+    margin: 0;
+}
+

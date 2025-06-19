@@ -1,0 +1,45 @@
+
+
+.ContentWrap{
+    
+      display: flex;
+    
+   
+    text-align:justify;
+    justify-content: space-between;
+    width: 1000px;
+    margin: auto ;
+ 
+    gap: 40px;
+
+    
+}
+
+.Title{
+display: block;
+margin: auto 0;
+text-align: center;
+padding-right: 735px;
+font-family: "Jura", sans-serif;
+
+}
+
+
+.ContentWrap {
+    font-family: "Jura", sans-serif;
+    color: black;
+    
+    
+    
+}
+
+.imageFin img{
+    position: relative;
+    width: 450px;
+    align-items: center;
+    height: 320px;
+
+    bottom: 40px;
+    
+}
+

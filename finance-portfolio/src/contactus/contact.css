@@ -1,0 +1,101 @@
+.wholeBody{
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+    background-color: #A9A9A9;
+    padding-left: 50px;
+    padding-top: 25px ;
+}
+
+.contactCon{
+    display: flex;
+    color: whitesmoke;
+    background-color: #A9A9A9;
+    
+
+}
+
+.Contact{
+    background-color: #A9A9A9;
+    height: 160px;
+    display: flex;
+    font-family: "Jura", sans-serif;
+    gap: 2px;
+    padding-left: 180px;
+
+
+
+}
+
+.Offices{
+    background-color: #353935;
+    padding-top: 20px;
+    padding-left: 250px;
+    
+    font-family: "Jura", sans-serif;
+}
+
+.Officeso{
+    background-color: #353935;
+    padding-top: 20px;
+    padding-left: 135px;
+    margin-left: 500px;
+    font-family: "Jura", sans-serif;
+}
+
+.Contact ul {
+    list-style: none;
+    text-align: center;
+    padding: 20px;
+}
+.Contact ul li a {
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
+.logoContainer{
+    /* or keep inline */
+    
+    color:#DC143C;
+   display: inline-block;
+    margin: 0px;
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 25px;
+    border-top: 3.5px solid black;
+    margin-top: 20px;
+     
+   
+  
+   
+    
+  
+    
+}
+
+.Contact  .logoContainer  {
+    display: block;
+    
+   
+    
+    margin-left: 200px;
+    
+    margin-top: 25px;
+    
+}
+
+.add{
+    margin-left: 80px;
+}
+
+.add1{
+    margin-left: 90px;
+    margin-bottom: 10px;
+}
+
+.add1 a{
+    color: black;
+    text-decoration: none;
+    padding-right: 60px;
+}
+
+
